@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RyanfGithub
-🧑‍💻 I'm Ryan, I'm an Intermediate programer
+🧑‍💻 I'm Ryan, I'm an Intermediate programmer
 
